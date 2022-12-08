@@ -27,9 +27,11 @@
 ## How to start using this material
 
 **Binder**
+
 [Binder](https://mybinder.org/)
 
 **Colab**
+
 1. Click on the linked title of the lesson you want to open.
 2. Log in with your Google account of choice.
 3. Save a copy in your Google Drive by clicking on `Copy to Drive`.
