@@ -45,3 +45,4 @@ The Binder Project is an open community that makes it possible to create sharabl
 5. Follow the lesson!
 
 **Jupyter Notebooks (lokal)**
+It is recommended to install the Anaconda Distribution which is a Python/R data science distribution and a collection of over 7,500+ open-source packages including a package and environment manager.  Please follow the [installation instructions](https://docs.anaconda.com/anaconda/install/index.html) for the local installation.
