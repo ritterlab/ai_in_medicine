@@ -1,6 +1,6 @@
 # Programmierung in Python
 
-**Blablabla**
+This repository contains the course material for the programming tutorials in week 1 & 2. The table gives an overview on the topics covered within the tutorials.
 
 ## Schedule
 
@@ -25,12 +25,18 @@
 [7]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week2_session2_images_MRI_dl.ipynb
 
 ## How to start using this material
+There are different options to access the course material. Here, we recommend to use one of the following: 
 
-**Binder**
+### Binder
+The Binder Project is an open community that makes it possible to create sharable, interactive, reproducible environments. No account is required to access and execute the tutorial material.
 
-[Binder](https://mybinder.org/)
+1. Go to the green 'Code' button and copy the path to this repository.
+2. Go to  [Binder](https://mybinder.org/)
+3. Insert to URL in the GitHub repository field.
+4. Click on the 'launch' button to create a Docker image of the environment.
+5. **...**
 
-**Colab**
+### Colab (Recommended for week 1 session 5)
 
 1. Click on the linked title of the lesson you want to open.
 2. Log in with your Google account of choice.
