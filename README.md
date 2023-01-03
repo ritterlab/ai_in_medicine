@@ -8,7 +8,7 @@ This repository contains the course material for the programming tutorials in we
 | ---------- | ----------- | ------ | --------------------------- | ---------------------- |
 | 2023-01-23 | 10:15-13:00 | CIPOM | [Grundkonzepte][1]          | tba           |
 | 2023-01-24 | 10:15-13:00 | CIPOM | [Numpy und Pandas][2]       | tba           |
-| 2023-01-25 | 10:15-13:00 | CIPOM | [Matplotlib und Seaborn][3] | Marija Tochadse/Moritz Seiler          |
+| 2023-01-25 | 10:15-13:00 | CIPOM | [Matplotlib und Seaborn][3] | Marija Tochadse          |
 | 2023-01-26 | 10:15-13:00 | CIPOM | [Scikit-learn][4]           | Moritz Seiler    |
 | 2023-01-27 | 10:15-13:00 | CIPOM | [Keras][5]                  | Moritz Seiler          |
 | 2023-01-31 | 10:15-13:00 | CIPOM | [tba][6]          | tba         |
