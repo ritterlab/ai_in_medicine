@@ -13,6 +13,6 @@ dependencies:
   - pandas
   - scikit-learn
   - rdkit
-  - pytorch torchvision torchaudio cpuonly -c pytorch
+  - torch-1.13.1+cpu-cp310-cp310-linux_x86_64.whl
   - tensorflow
   - nibabel
