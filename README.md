@@ -8,7 +8,7 @@ This repository contains the course material for the programming tutorials in we
 | ---------- | ----------- | ------ | --------------------------- | ---------------------- |
 | 2023-01-23 | 10:15-13:00 | CIPOM | [Grundkonzepte][1]          | tba           |
 | 2023-01-24 | 10:15-13:00 | CIPOM | [Numpy und Pandas][2]       | tba           |
-| 2023-01-25 | 10:15-13:00 | CIPOM | [Matplotlib und Seaborn][3] | Marija Tochadse          |
+| 2023-01-25 | 10:15-13:00 | CIPOM | [Matplotlib und Seaborn][3] | Sam Gijsen & Marija Tochadse          |
 | 2023-01-26 | 10:15-13:00 | CIPOM | [Scikit-learn][4]           | Moritz Seiler    |
 | 2023-01-27 | 10:15-13:00 | CIPOM | [Keras][5]                  | Moritz Seiler          |
 | 2023-01-31 | 10:15-13:00 | CIPOM | [tba][6]          | tba         |
@@ -18,7 +18,7 @@ This repository contains the course material for the programming tutorials in we
 
 [1]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session1_grundkonzepte.ipynb
 [2]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session2_numpy_pandas.ipynb
-[3]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session3_matplotlib.ipynb
+[3]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2023-01/week1_session3_matplotlib.ipynb
 [4]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session4_intro_to_ml_and_scikit_learn.ipynb
 [5]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session5_deep_learning.ipynb
 [6]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week2_session1_cadd_exercise.ipynb
@@ -43,7 +43,7 @@ The Binder Project is an open community that makes it possible to create sharabl
 3. Click on the 'launch' button to create a Docker image of the environment.
 4. Select the relevant Jupyter notebook for the tutorial.
 
-Binder allows ony a memory of 2GB per container, you have to use a copy of the COVID-19 dataset for your tutorial. Moreover, Binder does not offer GPU support.
+Binder allows only a memory of 2GB per container, you have to use a copy of the COVID-19 dataset for your tutorial. Moreover, Binder does not offer GPU support.
 
 
 ### Jupyter Notebooks (local)
