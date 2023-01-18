@@ -2,6 +2,7 @@ name: ai_in_medicine
 channels:
   - conda-forge
   - defaults
+  - pytorch
 dependencies:
   - python
   - pip
@@ -13,7 +14,6 @@ dependencies:
   - pandas
   - scikit-learn
   - rdkit
-  --find-links https://download.pytorch.org/whl/torch_stable.html
-  - torch==1.13.1+cpu
+  - pytorch==1.13.1+cpuonly
   - tensorflow
   - nibabel
