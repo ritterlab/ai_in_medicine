@@ -13,7 +13,6 @@ dependencies:
   - pandas
   - scikit-learn
   - rdkit
-  - torch-cpu
-  pip:
-    - tensorflow
-    - nibabel
+  - torch-cpu  
+  - tensorflow
+  - nibabel
