@@ -13,6 +13,7 @@ dependencies:
   - pandas
   - scikit-learn
   - rdkit
-  - torch-1.13.1+cpu-cp310-cp310-linux_x86_64.whl
+  --find-links https://download.pytorch.org/whl/torch_stable.html
+  - torch==1.13.1+cpu
   - tensorflow
   - nibabel
