@@ -18,7 +18,7 @@ This repository contains the course material for the programming tutorials in we
 
 [1]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session1_grundkonzepte.ipynb
 [2]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session2_numpy_pandas.ipynb
-[3]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2023-01/week1_session3_matplotlib.ipynb
+[3]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session3_matplotlib.ipynb
 [4]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session4_intro_to_ml_and_scikit_learn.ipynb
 [5]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session5_deep_learning.ipynb
 [6]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week2_session1_cadd_exercise.ipynb
@@ -56,4 +56,4 @@ It is recommended to install the Anaconda Distribution which is a Python/R data 
 
 
 ## Optional: Challenge
-blablabla
+tba
