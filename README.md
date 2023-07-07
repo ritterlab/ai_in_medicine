@@ -16,13 +16,13 @@ This repository contains the course material for the programming tutorials in we
 
 <!-- TODO: Update branch name to tagged release -->
 
-[1]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2023-07/week1_session1_grundkonzepte.ipynb
-[2]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2023-07/week1_session2_numpy_pandas.ipynb
-[3]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2023-07/week1_session3_matplotlib.ipynb
-[4]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2023-07/week1_session4_intro_to_ml_and_scikit_learn.ipynb
-[5]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2023-07/week1_session5_deep_learning.ipynb
-[6]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2023-07/week2_session2_mortalityprediction.ipynb
-[7]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2023-07/week2_session2_images_MRI_dl.ipynb
+[1]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session1_grundkonzepte.ipynb
+[2]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session2_numpy_pandas.ipynb
+[3]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session3_matplotlib.ipynb
+[4]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session4_intro_to_ml_and_scikit_learn.ipynb
+[5]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session5_deep_learning.ipynb
+[6]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week2_session2_mortalityprediction.ipynb
+[7]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week2_session2_images_MRI_dl.ipynb
 
 ## How to start using this material
 There are different options to access the course material. Here, we recommend to use one of the following: 
