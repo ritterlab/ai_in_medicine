@@ -8,7 +8,7 @@ This repository contains the course material for the programming tutorials in we
 | ---------- | ----------- | ------ | --------------------------- | ------------------------------ |
 | 2024-01-22 | 10:15-13:00 | CIPOM | [Grundkonzepte][1]           | Sam Gijsen                     |
 | 2024-01-23 | 10:15-13:00 | CIPOM | [Numpy und Pandas][2]        | Sebastian Boie & Nicholas Frey |
-| 2024-01-24 | 10:15-13:00 | CIPOM | [Matplotlib und Seaborn][3]  | Marija Tochadse & Marina Lex   |
+| 2024-01-24 | 10:15-13:00 | CIPOM | [Matplotlib und Seaborn][3]  | Marija Tochadse                |
 | 2024-01-25 | 10:15-13:00 | CIPOM | [Scikit-learn][4]            | Sebastian Boie & Nicholas Frey |
 | 2024-01-26 | 10:15-13:00 | CIPOM | [Keras][5]                   | Moritz Seiler                  |
 | 2024-01-30 | 10:15-13:00 | CIPOM | [Patientenversorgung][6]     | Sebastian Boie                 |
