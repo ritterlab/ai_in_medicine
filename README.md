@@ -6,23 +6,23 @@ This repository contains the course material for the programming tutorials in we
 
 | Datum      | Zeit        | Raum   | Titel                       | Referenten                     |
 | ---------- | ----------- | ------ | --------------------------- | ------------------------------ |
-| 2023-07-10 | 10:15-13:00 | CIPOM | [Grundkonzepte][1]           | Sam Gijsen                     |
-| 2023-07-11 | 10:15-13:00 | CIPOM | [Numpy und Pandas][2]        | Sebastian Boie & Nicholas Frey |
-| 2023-07-12 | 10:15-13:00 | CIPOM | [Matplotlib und Seaborn][3]  | Marija Tochadse & Marina Lex   |
-| 2023-07-13 | 10:15-13:00 | CIPOM | [Scikit-learn][4]            | Sebastian Boie & Nicholas Frey |
-| 2023-07-14 | 10:15-13:00 | CIPOM | [Keras][5]                   | Moritz Seiler                  |
-| 2023-07-18 | 10:15-13:00 | CIPOM | [Patientenversorgung][6]     | Sebastian Boie                 |
-| 2023-07-20 | 10:15-13:00 | CIPOM | [Computer Vision][7]         | Marc-Andre Schulz              |
+| 2024-01-22 | 10:15-13:00 | CIPOM | [Grundkonzepte][1]           | Malte Schmieding               |
+| 2024-01-23 | 10:15-13:00 | CIPOM | [Numpy und Pandas][2]        | Sebastian Boie                 |
+| 2024-01-24 | 10:15-13:00 | CIPOM | [Matplotlib und Seaborn][3]  | Marija Tochadse                |
+| 2024-01-25 | 10:15-13:00 | CIPOM | [Scikit-learn][4]            | Malte Schmieding               |
+| 2024-01-26 | 10:15-13:00 | CIPOM | [Keras][5]                   | Moritz Seiler                  |
+| 2024-01-30 | 10:15-13:00 | CIPOM | [Patientenversorgung][6]     | Sebastian Boie                 |
+| 2024-02-01 | 10:15-13:00 | CIPOM | [Computer Vision][7]         | Marc-Andre Schulz              |
 
 <!-- TODO: Update branch name to tagged release -->
 
-[1]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session1_grundkonzepte.ipynb
-[2]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session2_numpy_pandas.ipynb
-[3]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session3_matplotlib.ipynb
-[4]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session4_intro_to_ml_and_scikit_learn.ipynb
-[5]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week1_session5_deep_learning.ipynb
-[6]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week2_session2_mortalityprediction.ipynb
-[7]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/master/week2_session2_images_MRI_dl.ipynb
+[1]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2024-01/week1_session1_grundkonzepte.ipynb
+[2]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2024-01/week1_session2_numpy_pandas.ipynb
+[3]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2024-01/week1_session3_matplotlib.ipynb
+[4]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2024-01/week1_session4_intro_to_ml_and_scikit_learn.ipynb
+[5]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2024-01/week1_session5_deep_learning.ipynb
+[6]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2024-01/week2_session2_mortalityprediction.ipynb
+[7]: https://colab.research.google.com/github/ritterlab/ai_in_medicine/blob/2024-01/week2_session2_images_MRI_dl.ipynb
 
 ## How to start using this material
 There are different options to access the course material. Here, we recommend to use one of the following: 
