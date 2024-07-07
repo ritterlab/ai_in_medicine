@@ -6,13 +6,13 @@ This repository contains the course material for the programming tutorials in we
 
 | Datum      | Zeit        | Raum   | Titel                       | Referenten                     |
 | ---------- | ----------- | ------ | --------------------------- | ------------------------------ |
-| 2024-01-22 | 10:15-13:00 | CIPOM | [Grundkonzepte][1]           | Malte Schmieding               |
-| 2024-01-23 | 10:15-13:00 | CIPOM | [Numpy und Pandas][2]        | Sebastian Boie                 |
-| 2024-01-24 | 10:15-13:00 | CIPOM | [Matplotlib und Seaborn][3]  | Marija Tochadse                |
-| 2024-01-25 | 10:15-13:00 | CIPOM | [Scikit-learn][4]            | Malte Schmieding               |
-| 2024-01-26 | 10:15-13:00 | CIPOM | [Keras][5]                   | Moritz Seiler                  |
-| 2024-01-30 | 10:15-13:00 | CIPOM | [Patientenversorgung][6]     | Sebastian Boie                 |
-| 2024-02-01 | 10:15-13:00 | CIPOM | [Computer Vision][7]         | Marc-Andre Schulz              |
+| 2024-07-08 | 10:15-13:00 | CIPOM | [Grundkonzepte][1]           | Sebastian Boie                 |
+| 2024-07-09 | 10:15-13:00 | CIPOM | [Numpy und Pandas][2]        | Sebastian Boie                 |
+| 2024-07-10 | 10:15-13:00 | CIPOM | [Matplotlib und Seaborn][3]  | Marija Tochadse                |
+| 2024-07-11 | 10:15-13:00 | CIPOM | [Scikit-learn][4]            | Sebastian Boie                 |
+| 2024-07-12 | 10:15-13:00 | CIPOM | [Keras][5]                   | Moritz Seiler                  |
+| 2024-07-16 | 10:15-13:00 | CIPOM | [Patientenversorgung][6]     | Sebastian Boie                 |
+| 2024-07-18 | 10:15-13:00 | CIPOM | [Computer Vision][7]         | Marc-Andre Schulz              |
 
 <!-- TODO: Update branch name to tagged release -->
 
