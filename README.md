@@ -11,7 +11,7 @@ This repository contains the course material for the programming tutorials in we
 | 2024-07-10 | 10:15-13:00 | CIPOM | [Matplotlib und Seaborn][3]  | Marija Tochadse                |
 | 2024-07-11 | 10:15-13:00 | CIPOM | [Scikit-learn][4]            | Sebastian Boie                 |
 | 2024-07-12 | 10:15-13:00 | CIPOM | [Keras][5]                   | Moritz Seiler                  |
-| 2024-07-16 | 10:15-13:00 | CIPOM | [Patientenversorgung][6]     | Sebastian Boie                 |
+| 2024-07-16 | 10:15-13:00 | CIPOM | [Patientenversorgung][6]     | Elias Grünewald (Sebastian Boie)                 |
 | 2024-07-18 | 10:15-13:00 | CIPOM | [Computer Vision][7]         | Marc-Andre Schulz              |
 
 <!-- TODO: Update branch name to tagged release -->
