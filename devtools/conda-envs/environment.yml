@@ -1,7 +1,6 @@
 name: ai_in_medicine
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python
   - pip
